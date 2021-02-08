@@ -1,0 +1,29 @@
+3.INSTALL
+	*bonjour.c:
+		gcc -o bonjour bonjour.c
+		./bonjour
+	*circle.c:
+		gcc -o circle circle.c
+		./circle
+		entrer le rayon
+	*sizeof.c:
+		gcc -o sizeof sizeof.c
+		./sizeof
+	*variable.c:
+		gcc -o variable variable.c
+		./variable
+	*operators.c:
+		gcc -o operators operators.c
+		./operators
+	*boucles.c:
+		gcc -o boucles boucles.c
+		./boucles
+		entrer la taille du triangle
+	*boucles2.c:
+		gcc -o boucles2 boucles2.c
+		./boucles2
+		entrer la taille du triangle
+	*boucles3.c:
+		gcc -o boucles3 boucles3.c
+		./boucles3
+		entrer la taille du triangle

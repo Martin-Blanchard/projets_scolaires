@@ -1,0 +1,13 @@
+2.README
+	L'objectif de ce TP est de prendre en main les outils de base de programmation en C pour appréhender les différents formats de variables, les opérateurs arithmétiques et logiques et les boucles conditionelles.
+	*Exercice1
+		*Fichiers:bonjour.c, circle.c, sizeof.c, variable.c, operators.c, boucles.c, boucles2.c, boucles3.c
+		*Bibliothèques: stdio.h, stdlib.h
+		*Référence:
+			*Groupe D17
+			*www.openclassrooms.org
+		*Difficulté:
+			Facile
+		*Commentaire:
+			Sur l'écran de TP et en utilisant le Terminal "Terminal", en prenant count=134 pour l'exercice des boucles, le triangle occupe toute la largeur de l'écran du terminal. Pour count > 134, le triangle déborde de la largeur et n'est donc plus visible.
+			C'est une bonne idée d'adapter les exos pour voir en détail chaque partie du cours affin d'acquérir les bases avant des choses plus difficiles.
